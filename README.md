@@ -1,4 +1,4 @@
-# Senior-Individual-Project-SIP-
+# Senior IndividualProject (SIP)
 
 #Abstract
 
