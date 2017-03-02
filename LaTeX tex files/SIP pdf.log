@@ -1,0 +1,1967 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.24)  2 MAR 2017 16:01
+entering extended mode
+**"./SIP pdf.tex"
+("SIP pdf.tex"
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
+y"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
+ty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
+sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+sty"
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+\lst@mode=\count99
+\lst@gtempboxa=\box28
+\lst@token=\toks20
+\lst@length=\count100
+\lst@currlwidth=\dimen112
+\lst@column=\count101
+\lst@pos=\count102
+\lst@lostspace=\dimen113
+\lst@width=\dimen114
+\lst@newlines=\count103
+\lst@lineno=\count104
+\lst@maxwidth=\dimen115
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count105
+\lst@skipnumbers=\count106
+\lst@framebox=\box29
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\indentfirst.
+sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
+sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graphics.
+cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.
+def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
+rr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count107
+))
+\Gin@req@height=\dimen116
+\Gin@req@width=\dimen117
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
+sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count108
+\Gm@cntv=\count109
+\c@Gm@tempcnt=\count110
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks21
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
+cfg"))
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.
+sty"
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2015/09/07 v1.1p UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+)) ("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.s
+ty"
+Package: babel 2016/01/08 3.9n The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\bblopts.c
+fg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\engl
+ish.ldf"
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2016/01/08 3.9n Babel common definitions
+\babel@savecnt=\count111
+\U@D=\dimen126
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pdfpages.
+sty"
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count112
+\calc@Bcount=\count113
+\calc@Adimen=\dimen127
+\calc@Bdimen=\dimen128
+\calc@Askip=\skip55
+\calc@Bskip=\skip56
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count114
+\calc@Cskip=\skip57
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\eso-pic\eso-pic.st
+y"
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegsh
+i.sty"
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\color.cfg
+"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+\AM@pagewidth=\dimen129
+\AM@pageheight=\dimen130
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdfpages\pppdftex.
+def"
+File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box30
+\AM@toc@title=\toks24
+\c@AM@survey=\count115
+\AM@templatesizebox=\box31
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\ragged2e.sty"
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everysel.sty"
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip58
+\RaggedLeftLeftskip=\skip59
+\RaggedRightLeftskip=\skip60
+\CenteringRightskip=\skip61
+\RaggedLeftRightskip=\skip62
+\RaggedRightRightskip=\skip63
+\CenteringParfillskip=\skip64
+\RaggedLeftParfillskip=\skip65
+\RaggedRightParfillskip=\skip66
+\JustifyingParfillskip=\skip67
+\CenteringParindent=\skip68
+\RaggedLeftParindent=\skip69
+\RaggedRightParindent=\skip70
+\JustifyingParindent=\skip71
+) ("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count116
+\float@exts=\toks25
+\float@box=\box32
+\@float@everytoks=\toks26
+\@floatcapt=\box33
+)
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocloft\tocloft.st
+y"
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 44.
+\cftparskip=\skip72
+\cftbeforetoctitleskip=\skip73
+\cftaftertoctitleskip=\skip74
+\cftbeforepartskip=\skip75
+\cftpartnumwidth=\skip76
+\cftpartindent=\skip77
+\cftbeforesecskip=\skip78
+\cftsecindent=\skip79
+\cftsecnumwidth=\skip80
+\cftbeforesubsecskip=\skip81
+\cftsubsecindent=\skip82
+\cftsubsecnumwidth=\skip83
+\cftbeforesubsubsecskip=\skip84
+\cftsubsubsecindent=\skip85
+\cftsubsubsecnumwidth=\skip86
+\cftbeforeparaskip=\skip87
+\cftparaindent=\skip88
+\cftparanumwidth=\skip89
+\cftbeforesubparaskip=\skip90
+\cftsubparaindent=\skip91
+\cftsubparanumwidth=\skip92
+\cftbeforeloftitleskip=\skip93
+\cftafterloftitleskip=\skip94
+\cftbeforefigskip=\skip95
+\cftfigindent=\skip96
+\cftfignumwidth=\skip97
+\c@lofdepth=\count117
+\c@lotdepth=\count118
+\cftbeforelottitleskip=\skip98
+\cftafterlottitleskip=\skip99
+\cftbeforetabskip=\skip100
+\cfttabindent=\skip101
+\cfttabnumwidth=\skip102
+)
+\c@appendices=\count119
+\cftbeforeappendicesskip=\skip103
+\cftappendicesindent=\skip104
+\cftappendicesnumwidth=\skip105
+\c@apcdepth=\count120
+\cftbeforeapctitleskip=\skip106
+\cftafterapctitleskip=\skip107
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\setspace\setspace.
+sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+) ("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks27
+\SOUL@lasttoken=\toks28
+\SOUL@cmds=\toks29
+\SOUL@buffer=\toks30
+\SOUL@token=\toks31
+\SOUL@spaceskip=\skip108
+\SOUL@ttwidth=\dimen131
+\SOUL@uldp=\dimen132
+\SOUL@ulht=\dimen133
+) ("SIP pdf.aux")
+\openout1 = `"SIP pdf.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+\c@lstlisting=\count121
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count122
+\scratchdimen=\dimen134
+\scratchbox=\box34
+\nofMPsegments=\count123
+\nofMParguments=\count124
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count125
+\MPscratchDim=\dimen135
+\MPnumerator=\count126
+\makeMPintoPDFobject=\count127
+\everyMPtoPDFconversion=\toks33
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 433.62001pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=433.62001pt
+* \textheight=650.43001pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box35
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\pdflscape
+.sty"
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\lscape.st
+y"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+) ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 46.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+[2
+
+{C:/Users/owner/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+[4] [5] ("SIP pdf.toc"
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+("C:\Users\owner\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write3
+\openout3 = `"SIP pdf.toc"'.
+
+ [6] ("SIP pdf.lof")
+\tf@lof=\write4
+\openout4 = `"SIP pdf.lof"'.
+
+ [7] ("SIP pdf.apc")
+\tf@apc=\write5
+\openout5 = `"SIP pdf.apc"'.
+
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+<LatexImages/StatsInternet.JPG, id=36, 395.67825pt x 145.44337pt>
+File: LatexImages/StatsInternet.JPG Graphic file (type jpg)
+
+<use LatexImages/StatsInternet.JPG>
+Package pdftex.def Info: LatexImages/StatsInternet.JPG used on input line 130.
+(pdftex.def)             Requested size: 395.67728pt x 145.44301pt.
+
+<LatexImages/StatsInternet2.JPG, id=37, 424.58624pt x 225.54262pt>
+File: LatexImages/StatsInternet2.JPG Graphic file (type jpg)
+
+<use LatexImages/StatsInternet2.JPG>
+Package pdftex.def Info: LatexImages/StatsInternet2.JPG used on input line 137.
+
+(pdftex.def)             Requested size: 424.5852pt x 225.54207pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3 <./LatexImages/StatsInternet.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
+
+ []
+
+<LatexImages/SocialMediaStats.jpg, id=41, 360.74776pt x 241.50224pt>
+File: LatexImages/SocialMediaStats.jpg Graphic file (type jpg)
+
+<use LatexImages/SocialMediaStats.jpg>
+Package pdftex.def Info: LatexImages/SocialMediaStats.jpg used on input line 14
+6.
+(pdftex.def)             Requested size: 360.74686pt x 241.50163pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[4 <./LatexImages/StatsInternet2.JPG> <./LatexImages/SocialMediaStats.jpg>]
+<LatexImages/StatsMessaging.jpg, id=45, 496.55513pt x 167.12437pt>
+File: LatexImages/StatsMessaging.jpg Graphic file (type jpg)
+
+<use LatexImages/StatsMessaging.jpg>
+Package pdftex.def Info: LatexImages/StatsMessaging.jpg used on input line 155.
+
+(pdftex.def)             Requested size: 433.62001pt x 145.94783pt.
+
+<LatexImages/StatsGaming.jpeg, id=46, 544.434pt x 693.18974pt>
+File: LatexImages/StatsGaming.jpeg Graphic file (type jpg)
+
+<use LatexImages/StatsGaming.jpeg>
+Package pdftex.def Info: LatexImages/StatsGaming.jpeg used on input line 164.
+(pdftex.def)             Requested size: 433.62001pt x 552.11978pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--167
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[5 <./LatexImages/StatsMessaging.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[6 <./LatexImages/StatsGaming.jpeg>]
+<LatexImages/StatsWear.jpg, id=56, 358.63988pt x 215.90663pt>
+File: LatexImages/StatsWear.jpg Graphic file (type jpg)
+
+<use LatexImages/StatsWear.jpg>
+Package pdftex.def Info: LatexImages/StatsWear.jpg used on input line 175.
+(pdftex.def)             Requested size: 358.63899pt x 215.90608pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+<LatexImages/ActivityTrackers.jpg, id=57, 511.9125pt x 158.84344pt>
+File: LatexImages/ActivityTrackers.jpg Graphic file (type jpg)
+
+<use LatexImages/ActivityTrackers.jpg>
+Package pdftex.def Info: LatexImages/ActivityTrackers.jpg used on input line 18
+4.
+(pdftex.def)             Requested size: 465.85674pt x 144.54pt.
+
+Overfull \hbox (32.23672pt too wide) in paragraph at lines 184--185
+ [] 
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[7 <./LatexImages/StatsWear.jpg>]
+<LatexImages/Smartwatch.jpg, id=61, 846.16125pt x 496.85625pt>
+File: LatexImages/Smartwatch.jpg Graphic file (type jpg)
+
+<use LatexImages/Smartwatch.jpg>
+Package pdftex.def Info: LatexImages/Smartwatch.jpg used on input line 191.
+(pdftex.def)             Requested size: 433.62001pt x 254.61394pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[8 <./LatexImages/ActivityTrackers.jpg> <./LatexImages/Smartwatch.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 198--199
+
+ []
+
+<LatexImages/FBDiversityReport.png, id=65, 433.62pt x 281.3712pt>
+File: LatexImages/FBDiversityReport.png Graphic file (type png)
+
+<use LatexImages/FBDiversityReport.png>
+Package pdftex.def Info: LatexImages/FBDiversityReport.png used on input line 2
+02.
+(pdftex.def)             Requested size: 433.62001pt x 281.38339pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9 <./LatexImages/FBDiversityReport.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+<LatexImages/leavingSector.jpg, id=70, 351.714pt x 143.93774pt>
+File: LatexImages/leavingSector.jpg Graphic file (type jpg)
+
+<use LatexImages/leavingSector.jpg>
+Package pdftex.def Info: LatexImages/leavingSector.jpg used on input line 213.
+(pdftex.def)             Requested size: 433.62001pt x 177.46843pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+<LatexImages/phdRates.jpg, id=71, 384.53662pt x 256.25737pt>
+File: LatexImages/phdRates.jpg Graphic file (type jpg)
+
+<use LatexImages/phdRates.jpg>
+Package pdftex.def Info: LatexImages/phdRates.jpg used on input line 224.
+(pdftex.def)             Requested size: 433.62001pt x 288.96918pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[10 <./LatexImages/leavingSector.jpg>]
+<LatexImages/genderDisparity.jpg, id=75, 417.66037pt x 246.62137pt>
+File: LatexImages/genderDisparity.jpg Graphic file (type jpg)
+
+<use LatexImages/genderDisparity.jpg>
+Package pdftex.def Info: LatexImages/genderDisparity.jpg used on input line 231
+.
+(pdftex.def)             Requested size: 433.62001pt x 256.04364pt.
+
+<LatexImages/firstYearInterest.jpg, id=76, 348.70274pt x 229.15613pt>
+File: LatexImages/firstYearInterest.jpg Graphic file (type jpg)
+
+<use LatexImages/firstYearInterest.jpg>
+Package pdftex.def Info: LatexImages/firstYearInterest.jpg used on input line 2
+38.
+(pdftex.def)             Requested size: 433.62001pt x 284.97235pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[11 <./LatexImages/phdRates.jpg> <./LatexImages/genderDisparity.jpg>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12 <./LatexImages/firstYearInterest.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 255--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--262
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 267--268
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
+
+ []
+
+<LatexImages/quora.jpg, id=96, 465.23813pt x 211.69087pt>
+File: LatexImages/quora.jpg Graphic file (type jpg)
+
+<use LatexImages/quora.jpg>
+Package pdftex.def Info: LatexImages/quora.jpg used on input line 287.
+(pdftex.def)             Requested size: 465.23698pt x 211.69034pt.
+
+Overfull \hbox (31.61697pt too wide) in paragraph at lines 287--288
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[17 <./LatexImages/quora.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 296--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--303
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--309
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 312--313
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 314--315
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--319
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[22]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[24]
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[25]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 335--336
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 337--338
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--340
+
+ []
+
+<LatexImages/CarnegieMellon.jpg, id=129, 615.19838pt x 177.36263pt>
+File: LatexImages/CarnegieMellon.jpg Graphic file (type jpg)
+
+<use LatexImages/CarnegieMellon.jpg>
+Package pdftex.def Info: LatexImages/CarnegieMellon.jpg used on input line 343.
+
+(pdftex.def)             Requested size: 433.62001pt x 125.0136pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[27]
+Overfull \hbox (4.97682pt too wide) in paragraph at lines 348--349
+[]\OT1/cmr/m/n/12 The web-site pro-vides plenty of re-sources and in-for-ma-tio
+n tai-lored to women at Carnegie
+ []
+
+<LatexImages/CarnegieAlumni.jpg, id=133, 620.3175pt x 296.00587pt>
+File: LatexImages/CarnegieAlumni.jpg Graphic file (type jpg)
+
+<use LatexImages/CarnegieAlumni.jpg>
+Package pdftex.def Info: LatexImages/CarnegieAlumni.jpg used on input line 354.
+
+(pdftex.def)             Requested size: 433.62001pt x 206.91362pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[28 <./LatexImages/CarnegieMellon.jpg> <./LatexImages/CarnegieAlumni.jpg>]
+<LatexImages/WhiteHouse.jpg, id=137, 839.23538pt x 454.39763pt>
+File: LatexImages/WhiteHouse.jpg Graphic file (type jpg)
+
+<use LatexImages/WhiteHouse.jpg>
+Package pdftex.def Info: LatexImages/WhiteHouse.jpg used on input line 364.
+(pdftex.def)             Requested size: 433.62001pt x 234.78354pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
+
+ []
+
+<LatexImages/WhiteHouseExample.jpg, id=138, 763.95413pt x 416.757pt>
+File: LatexImages/WhiteHouseExample.jpg Graphic file (type jpg)
+
+<use LatexImages/WhiteHouseExample.jpg>
+Package pdftex.def Info: LatexImages/WhiteHouseExample.jpg used on input line 3
+73.
+(pdftex.def)             Requested size: 433.62001pt x 236.55556pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[29 <./LatexImages/WhiteHouse.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 379--380
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[30 <./LatexImages/WhiteHouseExample.jpg>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 390--391
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 402--403
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 406--407
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+
+ []
+
+<LatexImages/WebsiteDesign.jpg, id=152, 894.9435pt x 537.80925pt>
+File: LatexImages/WebsiteDesign.jpg Graphic file (type jpg)
+
+<use LatexImages/WebsiteDesign.jpg>
+Package pdftex.def Info: LatexImages/WebsiteDesign.jpg used on input line 412.
+(pdftex.def)             Requested size: 433.62001pt x 260.57455pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 418--419
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+
+ []
+
+<LatexImages/IRBReport.pdf, id=156, 614.295pt x 794.97pt>
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf>
+Package pdftex.def Info: LatexImages/IRBReport.pdf used on input line 422.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+ <use LatexImages/IRBReport.pdf>
+Package pdftex.def Info: LatexImages/IRBReport.pdf used on input line 422.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<LatexImages/IRBReport.pdf, id=159, page=7, 614.295pt x 794.97pt>
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 7>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page7 used on input line 42
+2.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 7>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page7 used on input line 42
+2.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[34 <./LatexImages/WebsiteDesign.jpg>]
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+ <use LatexImages/IRBReport.pdf, page 7>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page7 used on input line 42
+2.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 7>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page7 used on input line 42
+2.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 7>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page7 used on input line 42
+2.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [35 <./LatexImages/IRBReport.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 438--439
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
+
+ []
+
+<LatexImages/CosmoPic.jpg, id=185, 900.36375pt x 1240.635pt>
+File: LatexImages/CosmoPic.jpg Graphic file (type jpg)
+
+<use LatexImages/CosmoPic.jpg>
+Package pdftex.def Info: LatexImages/CosmoPic.jpg used on input line 460.
+(pdftex.def)             Requested size: 399.14252pt x 550.0pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[37 <./LatexImages/CosmoPic.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 465--466
+
+ []
+
+<LatexImages/wearableInfographic.jpg, id=189, 435.12563pt x 477.88538pt>
+File: LatexImages/wearableInfographic.jpg Graphic file (type jpg)
+
+<use LatexImages/wearableInfographic.jpg>
+Package pdftex.def Info: LatexImages/wearableInfographic.jpg used on input line
+ 467.
+(pdftex.def)             Requested size: 500.79558pt x 550.0pt.
+
+Overfull \hbox (67.17557pt too wide) in paragraph at lines 467--469
+[][]
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[38 <./LatexImages/wearableInfographic.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 473--483
+
+ []
+
+<LatexImages/PewReport.pdf, id=193, 614.295pt x 794.97pt>
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf>
+Package pdftex.def Info: LatexImages/PewReport.pdf used on input line 488.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+ <use LatexImages/PewReport.pdf>
+Package pdftex.def Info: LatexImages/PewReport.pdf used on input line 488.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf>
+Package pdftex.def Info: LatexImages/PewReport.pdf used on input line 488.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+ <use LatexImages/PewReport.pdf>
+Package pdftex.def Info: LatexImages/PewReport.pdf used on input line 488.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf>
+Package pdftex.def Info: LatexImages/PewReport.pdf used on input line 488.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+ <use LatexImages/PewReport.pdf>
+Package pdftex.def Info: LatexImages/PewReport.pdf used on input line 488.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf>
+Package pdftex.def Info: LatexImages/PewReport.pdf used on input line 488.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+ <use LatexImages/PewReport.pdf>
+Package pdftex.def Info: LatexImages/PewReport.pdf used on input line 488.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf>
+Package pdftex.def Info: LatexImages/PewReport.pdf used on input line 488.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<LatexImages/PewReport.pdf, id=203, page=1, 614.295pt x 794.97pt>
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 1>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page1 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 1>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page1 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[39]
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+ <use LatexImages/PewReport.pdf, page 1>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page1 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 1>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page1 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 1>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page1 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [40 <./LatexImages/PewReport.pdf>]
+<LatexImages/PewReport.pdf, id=253, page=2, 614.295pt x 794.97pt>
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 2>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page2 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 2>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page2 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 2>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page2 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [41 <./LatexImages/PewReport.pdf>]
+<LatexImages/PewReport.pdf, id=265, page=3, 614.295pt x 794.97pt>
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 3>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page3 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 3>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page3 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 3>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page3 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [42 <./LatexImages/PewReport.pdf>]
+<LatexImages/PewReport.pdf, id=271, page=4, 614.295pt x 794.97pt>
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 4>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page4 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 4>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page4 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 4>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page4 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [43 <./LatexImages/PewReport.pdf>]
+<LatexImages/PewReport.pdf, id=276, page=5, 614.295pt x 794.97pt>
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 5>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page5 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 5>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page5 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 5>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page5 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [44 <./LatexImages/PewReport.pdf>]
+<LatexImages/PewReport.pdf, id=281, page=6, 614.295pt x 794.97pt>
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 6>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page6 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 6>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page6 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 6>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page6 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [45 <./LatexImages/PewReport.pdf>]
+<LatexImages/PewReport.pdf, id=287, page=7, 614.295pt x 794.97pt>
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 7>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page7 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 7>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page7 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 7>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page7 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [46 <./LatexImages/PewReport.pdf>]
+<LatexImages/PewReport.pdf, id=293, page=8, 614.295pt x 794.97pt>
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 8>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page8 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 8>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page8 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/PewReport.pdf Graphic file (type pdf)
+
+<use LatexImages/PewReport.pdf, page 8>
+Package pdftex.def Info: LatexImages/PewReport.pdf, page8 used on input line 48
+8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [47 <./LatexImages/PewReport.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
+
+ []
+
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+<use LatexImages/IRBReport.pdf>
+Package pdftex.def Info: LatexImages/IRBReport.pdf used on input line 504.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+ <use LatexImages/IRBReport.pdf>
+Package pdftex.def Info: LatexImages/IRBReport.pdf used on input line 504.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf>
+Package pdftex.def Info: LatexImages/IRBReport.pdf used on input line 504.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+ <use LatexImages/IRBReport.pdf>
+Package pdftex.def Info: LatexImages/IRBReport.pdf used on input line 504.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf>
+Package pdftex.def Info: LatexImages/IRBReport.pdf used on input line 504.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+ <use LatexImages/IRBReport.pdf>
+Package pdftex.def Info: LatexImages/IRBReport.pdf used on input line 504.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf>
+Package pdftex.def Info: LatexImages/IRBReport.pdf used on input line 504.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+ <use LatexImages/IRBReport.pdf>
+Package pdftex.def Info: LatexImages/IRBReport.pdf used on input line 504.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<LatexImages/IRBReport.pdf, id=307, page=1, 614.295pt x 794.97pt>
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 1>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page1 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 1>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page1 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[48]
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+ <use LatexImages/IRBReport.pdf, page 1>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page1 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 1>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page1 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 1>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page1 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [49 <./LatexImages/IRBReport.pdf>]
+<LatexImages/IRBReport.pdf, id=328, page=2, 614.295pt x 794.97pt>
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 2>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page2 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 2>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page2 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 2>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page2 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [50 <./LatexImages/IRBReport.pdf>]
+<LatexImages/IRBReport.pdf, id=336, page=3, 614.295pt x 794.97pt>
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 3>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page3 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 3>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page3 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 3>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page3 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [51 <./LatexImages/IRBReport.pdf>]
+<LatexImages/IRBReport.pdf, id=341, page=4, 614.295pt x 794.97pt>
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 4>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page4 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 4>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page4 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 4>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page4 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [52 <./LatexImages/IRBReport.pdf>]
+<LatexImages/IRBReport.pdf, id=357, page=5, 614.295pt x 794.97pt>
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 5>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page5 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 5>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page5 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 5>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page5 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [53 <./LatexImages/IRBReport.pdf>]
+<LatexImages/IRBReport.pdf, id=363, page=6, 614.295pt x 794.97pt>
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 6>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page6 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 6>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page6 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 6>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page6 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [54 <./LatexImages/IRBReport.pdf>]
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 7>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page7 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 7>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page7 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: LatexImages/IRBReport.pdf Graphic file (type pdf)
+
+<use LatexImages/IRBReport.pdf, page 7>
+Package pdftex.def Info: LatexImages/IRBReport.pdf, page7 used on input line 50
+4.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [55] ("SIP pdf.bbl"
+Underfull \hbox (badness 1033) in paragraph at lines 4--8
+[]\OT1/cmr/m/n/12 The com-puter girls.  http://boingboing.net/2015/07/31/the-co
+mputer-girls-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--13
+[]\OT1/cmr/m/n/12 Current pop-u-la-tion re-ports: Con-sumer in-come.
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[56]
+Underfull \hbox (badness 1303) in paragraph at lines 156--162
+\OT1/cmr/m/n/12 en-vi-ron-ment?  http://www.quora.com/How-well-would-a-non-ster
+eotypical-
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[57])
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[58] ("SIP pdf.aux") ) 
+Here is how much of TeX's memory you used:
+ 6732 strings out of 493634
+ 95558 string characters out of 3135239
+ 176129 words of memory out of 3000000
+ 9959 multiletter control sequences out of 15000+200000
+ 12768 words of font info for 49 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 39i,18n,43p,3534b,433s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/owner/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><C:/Users/owner/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/owner/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/owner/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users
+/owner/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pf
+b><C:/Users/owner/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmti12.pfb>
+Output written on "SIP pdf.pdf" (65 pages, 5427483 bytes).
+PDF statistics:
+ 404 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 286 words of extra memory for PDF output out of 10000 (max. 10000000)
+

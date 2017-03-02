@@ -1,0 +1,297 @@
+% Encoding: UTF-8
+
+@Article{airbag,
+  author =    {Meyer, Mary C and Finney, Tremika},
+  title =     {Who wants airbags?},
+  journal =   {Chance},
+  year =      {2005},
+  volume =    {18},
+  number =    {2},
+  pages =     {3--16},
+  publisher = {Taylor \& Francis}
+}
+
+@TechReport{anitabor,
+  title =       {Anita Borg Institute Reveals Top Companies for Women Technologists 2015},
+  institution = {Anita Borg Institute},
+  timestamp =   {April 8, 2015},
+  url =         {http://anitaborg.org/news/press-release/top-companies-2015/}
+}
+
+@TechReport{believe,
+  title =       {Reducing stereotype threat in classrooms: a review of social-psychological intervention studies on improving the achievement of Black students},
+  institution = {National Center For Education Evaluation and Regional Assistance, Institute of Education Sciences, and the U.S. Department of Education},
+  year =        {2009},
+  type =        {Statistics \& Reports},
+  month =       {July}
+}
+
+@Article{benbarres,
+  author =       {Shankar Vedantam},
+  title =        {Male Scientist Writes of Life as Female Scientist},
+  journal =      {Wshington Post},
+  year =         {2006},
+  month =        {July},
+  note =         {Online; accessed March 25, 2016},
+  howpublished = {http://www.washingtonpost.com/wp-dyn/content/article/2006/07/12/AR2006071201883.html}
+}
+
+@Article{better,
+  author =  {Sue V. Rosser},
+  title =   {More gender Diversity will Mean Better Science},
+  journal = {chronicle},
+  year =    {2012}
+}
+
+@Misc{cosmo,
+  title =        {The Computer Girls},
+  howpublished = {http://boingboing.net/2015/07/31/the-computer-girls-1967-c.html},
+  year =         {1967},
+  note =         {Online; accessed Jan 26, 2016},
+  editor =       {Lois Mandel, Xeni Jardin},
+  series =       {Cosmopolitan magazine}
+}
+
+@Article{Evans,
+  author =    {Evans, Mary Ann and Whigham, Myrna and Wang, Morgan C},
+  title =     {The effect of a role model project upon the attitudes of ninth-grade science students},
+  journal =   {Journal of Research in Science Teaching},
+  year =      {1995},
+  volume =    {32},
+  number =    {2},
+  pages =     {195--204},
+  publisher = {Wiley Subscription Services, Inc., A Wiley Company}
+}
+
+@TechReport{facebook,
+  author =       {Maxine Williams, Global Director of Diversity},
+  title =        {Driving Diversity at Facebook},
+  year =         {2015},
+  note =         {Online; acncessed March 25, 2016},
+  howpublished = {http://newsroom.fb.com/news/2015/06/driving-diversity-at-facebook/},
+  journal =      {Facebook ewsroom}
+}
+
+@Article{fogliati,
+  author =    {Fogliati, Vincent J and Bussey, Kay},
+  title =     {Stereotype threat reduces motivation to improve effects of stereotype threat and feedback on women’s intentions to improve mathematical ability},
+  journal =   {Psychology of Women Quarterly},
+  year =      {2013},
+  publisher = {SAGE Publications}
+}
+
+@Article{Fortune,
+  author =       {Erik Sherman},
+  title =        {Report: Disturbing drop in women in computing field},
+  journal =      {Fortune},
+  year =         {2015},
+  note =         {Online; accessed March 25, 2016},
+  howpublished = {http://fortune.com/2015/03/26/report-the-number-of-women-entering-computing-took-a-nosedive/}
+}
+
+@TechReport{gamestats,
+  author =      {Mike Mason},
+  title =       {Demographic Breakdown of Casual, Mid-Core, and Hard-Core Mobile Gamers},
+  institution = {Developers MagMic},
+  year =        {Dec 19, 2013},
+  timestamp =   {Feb 9, 2016},
+  url =         {http://developers.magmic.com/demographic-breakdown-casual-mid-core-hard-core-mobile-gamers/}
+}
+
+@Article{glassdoor,
+  title =     {25 Best Jobs in America},
+  journal =   {Glassdoor},
+  year =      {2016},
+  month =     {january},
+  timestamp = {January 26, 2016},
+  url =       {https://www.glassdoor.com/Best-Jobs-in-America-LST_KQ0,20.htm}
+}
+
+@Article{hazari,
+  author =    {Hazari, Zahra and Potvin, Geoff and Lock, Robynne M and Lung, Florin and Sonnert, Gerhard and Sadler, Philip M},
+  title =     {Factors that affect the physical science career interest of female students: Testing five common hypotheses},
+  journal =   {Physical Review Special Topics-Physics Education Research},
+  year =      {2013},
+  volume =    {9},
+  number =    {2},
+  pages =     {020115},
+  publisher = {APS}
+}
+
+@Article{imitation,
+  author =  {L.V. Anderson},
+  title =   {How Accurate is The Imitation Game},
+  journal = {Slate},
+  year =    {2014}
+}
+
+@Electronic{income1969,
+  year =         {1969},
+  title =        {Current Population Reports: Consumer Income},
+  howpublished = {http://www2.census.gov/prod2/popscan/p60-062.pdf},
+  organization = {U.S. Government Printing Office},
+  note =         {Online accessed January 26, 2016},
+  number =       {1969-392-361/4}
+}
+
+@TechReport{infographic,
+  author =      {Carlos Monteiro},
+  title =       {Infographic: Which wearable tech device will win? Demographics and awarreness for fitness trackers and smartwatches},
+  institution = {NPD Group Connected Intelligence WEAR Report Associates, Statista},
+  year =        {2015},
+  type =        {Inforgraphic},
+  month =       {June},
+  timestamp =   {January 27, 2016},
+  url =         {http://www.adweek.com/news/advertising-branding/infographic-which-wearable-tech-device-will-win-165474}
+}
+
+@Article{lucrative,
+  author =  {Mike Cassidy},
+  title =   {Women Missing out on lucrative ccareer in computer science},
+  journal = {mercury news},
+  year =    {2014}
+}
+
+@Book{margolis,
+  title =     {Unlocking the clubhouse: Women in computing},
+  publisher = {MIT press},
+  year =      {2003},
+  author =    {Margolis, Jane and Fisher, Allan}
+}
+
+@TechReport{ncwit,
+  title =       {NCWIT SCORECARD a report on the status of women in information technology},
+  institution = {National center for Women \& Information Tecchnology (NWIT)},
+  year =        {2014},
+  type =        {Statistics \& Reports},
+  month =       {April},
+  keywords =    {K-12, Hgher Education, Workforce, Startup}
+}
+
+@Article{nimrod,
+  author =    {Dar-Nimrod, Ilan and Heine, Steven J.},
+  title =     {Exposure to Scientific Theories Affects Women{\textquoteright}s Math Performance},
+  journal =   {Science},
+  year =      {2006},
+  volume =    {314},
+  number =    {5798},
+  pages =     {435--435},
+  abstract =  {Stereotype threat occurs when stereotyped groups perform worse as their group membership is highlighted. We investigated whether stereotype threat is affected by accounts for the origins of stereotypes. In two studies, women who read of genetic causes of sex differences performed worse on math tests than those who read of experiential causes.},
+  doi =       {10.1126/science.1131100},
+  eprint =    {http://science.sciencemag.org/content/314/5798/435.full.pdf},
+  issn =      {0036-8075},
+  publisher = {American Association for the Advancement of Science},
+  url =       {http://science.sciencemag.org/content/314/5798/435}
+}
+
+@Manual{Paulus,
+  title =        {There's a Way to Get Girls to Stick with Science–and No, It’s Not More Female Role Models},
+  author =       {Paulus, Shannon},
+  organization = {Quartz},
+  month =        jan,
+  year =         {2016},
+  note =         {Accessed January 13, 2016},
+  url =          {http://qz.com/585255/girls-dont-have-to-be-lured-into-science-science-has-to-stop-pushing-them-out/.}
+}
+
+@TechReport{pew,
+  author =      {Maeve Duggan, Dana Page},
+  title =       {Mobile Messaging and Social Media 2015},
+  institution = {Pew Research Center},
+  year =        {2015},
+  timestamp =   {January 27, 2016},
+  url =         {: http://www.pewinternet.org/2015/08/19/mobile-messaging-and-social-media-2015/}
+}
+
+@Misc{quora,
+  title =        {How well would a non-stereotypical computer programmer fit in a programming environment?},
+  howpublished = {http://www.quora.com/How-well-would-a-non-stereotypical-computer-programmer-fit-in-a-programming-environment},
+  year =         {2015},
+  note =         {Online; accessed March 19, 2016}
+}
+
+@Article{relation,
+  author =    {Sonnert, Gerhard and Fox, Mary Frank and Adkins, Kristen},
+  title =     {Undergraduate Women in Science and Engineering: Effects of Faculty, Fields, and Institutions Over Time*},
+  journal =   {Social Science Quarterly},
+  year =      {2007},
+  volume =    {88},
+  number =    {5},
+  pages =     {1333--1356},
+  publisher = {Wiley Online Library}
+}
+
+@Article{safezone,
+  author =    {Finkel, Melinda J and Storaasli, Ragnar D and Bandele, Anthony and Schaefer, Vivian},
+  title =     {Diversity training in graduate school: An exploratory evaluation of the Safe Zone project.},
+  journal =   {Professional Psychology: Research and Practice},
+  year =      {2003},
+  volume =    {34},
+  number =    {5},
+  pages =     {555},
+  publisher = {American Psychological Association}
+}
+
+@Article{silicon,
+  author =    {Ryan Fowler},
+  title =     {Just 18% of directors of 'Silicon Roundabout' tech companies are women},
+  journal =   {Tech City News},
+  year =      {2015},
+  month =     {August},
+  timestamp = {January 26, 2016},
+  url =       {http://techcitynews.com/2015/08/24/just-18-of-directors-of-silicon-roundabout-tech-companies-are-women/}
+}
+
+@Misc{smartwatches,
+  title =        {Smart Watches},
+  howpublished = {http://www.phonecruncher.com/how-tos/002358/how-to-pick-the-best-smartwatch-for-you/},
+  year =         {2016},
+  note =         {Online; accessed Feb 9, 2016}
+}
+
+@Article{stevejobs,
+  title =   {New film: "Steve Jobs" Another failed product},
+  journal = {The Economist},
+  year =    {2015}
+}
+
+@TechReport{threat,
+  title =       {What can be done to reduce stereotype threat?},
+  institution = {ReducingStereotypThreat.org},
+  timestamp =   {March 26, 2016},
+  url =         {http://www.reducingstereotypethreat.org/reduce.html}
+}
+
+@Article{tindall,
+  author =    {Tindall, Tiffany and Hamil, Burnette},
+  title =     {Gender disparity in science education: The causes, consequences, and solutions},
+  journal =   {Education},
+  year =      {2004},
+  volume =    {125},
+  number =    {2},
+  pages =     {282},
+  publisher = {Project Innovation, Inc.}
+}
+
+@Misc{trackers,
+  title =        {Activity Trackers},
+  howpublished = {http://www.hrdlpn.nl/activity-tracker/},
+  year =         {2016},
+  note =         {Online; accessed Feb 9, 2016}
+}
+
+@Article{typerolemodels,
+  author =    {Cheryan, Sapna and Drury, Benjamin J and Vichayapai, Marissa},
+  title =     {Enduring influence of stereotypical computer science role models on women’s academic aspirations},
+  journal =   {Psychology of Women Quarterly},
+  year =      {2012},
+  pages =     {0361684312459328},
+  publisher = {SAGE Publications}
+}
+
+@Misc{valerie,
+  title =        {Women in STEM, Women in Computer Science: We're Looking At It Incorrectly},
+  howpublished = {http://cacm.acm.org/blogs/blog-cacm/180850-women-in-stem-women-in-computer-science-were-looking-at-it-incorrectly/fulltext},
+  year =         {2014},
+  note =         {Online; accessed March 22, 2016}
+}
